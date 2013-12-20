@@ -1,5 +1,8 @@
 Basic Python CGI scripts to help piano teachers keep track of their students, notes, and payments.
 
+Screenshot:
+![A look at the spartan interface.](http://www.stanford.edu/~sckoo/images/pedalogue-screenshot.png)
+
 Installation
 ============
 Copy the files into your cgi-bin and make sure all the Python scripts are executable.
