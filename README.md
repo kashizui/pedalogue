@@ -2,7 +2,7 @@ Basic Python CGI scripts to help piano teachers keep track of their students, no
 Used this myself for several months until I moved to http://www.musicteachershelper.com/.
 
 Screenshot:
-![A look at the spartan interface.](http://www.stanford.edu/~sckoo/images/pedalogue.png)
+![A look at the spartan interface.](http://www.stanford.edu/~sckoo/images/pedalogue-screen.png)
 
 Installation
 ============
