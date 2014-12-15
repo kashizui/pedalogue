@@ -6,7 +6,7 @@ Screenshot:
 
 Installation
 ============
-Copy the files into your cgi-bin and make sure all the Python scripts are executable.
+Copy the files into your cgi-bin and make sure all the Python scripts are executable. 
 
     chmod 755 *.py
 
